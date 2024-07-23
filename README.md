@@ -3,6 +3,7 @@
 ===
 
 ## [**C#**](https://devcheat.github.io/cs/)
+## [**Design Pattern**](https://devcheat.github.io/designpattern/)
 ## [**JavaScript**](https://devcheat.github.io/js/)
 ## [**Python**](https://devcheat.github.io/py/)
 ## [**Command Line**](https://devcheat.github.io/cli/)
