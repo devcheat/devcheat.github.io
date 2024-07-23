@@ -1,5 +1,5 @@
 
-**`Dev` Reference/Cheatbook**
+**`Dev` Help/Reference/Cheatbook**
 ===
 
 ## [**C#**](https://devcheat.github.io/cs/)
@@ -11,5 +11,6 @@
 ## [**Dynamics CRM**](https://devcheat.github.io/crm/)
 ## [**Haxxor**](https://devcheat.github.io/haxxor/)
 ## [**Docker**](https://devcheat.github.io/docker/)
+## [**HTML5 Canvas**](https://devcheat.github.io/html5canvas/)
 ## [**Others**](https://devcheat.github.io/others/)
 
